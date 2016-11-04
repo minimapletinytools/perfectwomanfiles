@@ -1,0 +1,92 @@
+NAME Child Worker
+BMP 157,7140
+COLOR 255 219 22 255
+NDESC Child Worker
+INDEX 1 3
+CHANGE Your life as a child worker was horrible!
+0,0.2
+CHANGE Your life as a child worker was bad!
+0.2,0.4
+CHANGE You are a poor child worker!
+0.4,0.6
+CDESC You would rather go to school!
+0,
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC An easy-going life is not for you!
+0,
+0,0,0,0, 
+1,1,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC But a stellar career remains hard for you, too!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE You’re a good child worker!
+0.6,0.8
+CHANGE You’re an excellent child worker!
+0.8,1
+CDESC Unfortunately it will be hard to get some education.
+0,
+0,0,0,0, 
+0,0,0,9, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC An easy-going life will also be hard.
+0,
+0,0,0,0, 
+1,1,0,0, 
+0,0,0,0, 
+0,1,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Low income jobs and long working hours are your future!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC You can still become a rebel, though.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0

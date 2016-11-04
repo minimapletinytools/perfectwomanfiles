@@ -1,0 +1,62 @@
+NAME Terrorist
+BMP 120
+COLOR 255 219 22 255
+NDESC Terrorist
+INDEX 3 2
+CHANGE You did a horrible job as a terrorist!
+0,0.2
+CHANGE You did a bad job as a terrorist!
+0.2,0.4
+CHANGE You did a poor job as a terrorist!
+0.4,0.6
+CDESC Caught terrorists easily turn into drop-outs.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,-1, 
+0, 
+0
+CDESC Being part of society again will be hard!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+9,0,0,1, 
+0,0,0,0, 
+9,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE You did a good job as a terrorist!
+0.6,0.8
+CHANGE Your did an excellent job as a terrorist!
+0.8,1
+CDESC Terrorists easily turn into drop-outs! 
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,-1, 
+0, 
+0
+CDESC Being part of society again will be hard.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+9,0,0,1, 
+0,0,0,0, 
+9,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CONNECTION 1 2 + Because you experienced injustice as a street kid...<S>...it was easy for you to become terrorist.
+CONNECTION 1 3 + Because you were exploited as a child worker...<S>...you could easily become terrorist.
+

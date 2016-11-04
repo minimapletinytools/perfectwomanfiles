@@ -1,0 +1,66 @@
+NAME Professor
+BMP 123.2
+NDESC Successful Professor At MIT
+INDEX 4 0
+CHANGE You had a horrible life as a successful professor!
+0,0.2
+CHANGE You had a bad life as a successful professor!
+0.2,0.4
+CHANGE You performed poorly as a successful professor!
+0.4,0.6
+CDESC You’ll soon feel the negative side of your career.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Go back to normal. That's easiest for you!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0, 
+0
+
+CHANGE You had a good life as a successful professor!
+0.6,0.8
+CHANGE You had an excellent life as a successful professor!
+0.8,1
+CDESC You’re made for a steep career!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,-9,0, 
+-1,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC But living a normal life will be hard for you!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0, 
+0
+CONNECTION 1 2 - Because you were a street kid,...<S>...it was almost impossible to have a successful career later.
+CONNECTION 3 1 - If you drink your youth away on Oktoberfest,...<S>...it's hard to have a successful career at 34.
+CONNECTION 3 2 - A terrorist has extreme problems to become...<S>...a successful professor in the country she attacked.
+CONNECTION 2 3 - Because you were a bad student...<S>...becoming professor was hard for you.
+CONNECTION 2 3 + Because you were an eager student...<S>...you had no problems becoming professor.
+CONNECTION 1 3 - Because you had no education as a child worker...<S>...it was hard to become professor later.
+

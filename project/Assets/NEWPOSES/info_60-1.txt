@@ -1,0 +1,61 @@
+NAME Minister
+BMP 120
+COLOR 238 2 130 255
+NDESC Foreign Minister
+INDEX 6 0
+CHANGE Your were horrible as a foreign minister!
+0,0.2
+CHANGE Your were bad as a foreign minister!
+0.2,0.4
+CHANGE You performed poorly as a foreign minister!
+0.4,0.6
+CDESC At least that leads to some experience later. 
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0, 
+0
+CHANGE You were good as a foreign minister!
+0.6,0.8
+CHANGE You were excellent as a foreign minister!
+0.8,1
+CDESC Your world-openness is not helpful for a religious life style.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,1,1, 
+0, 
+0
+CDESC But you gained some life experience.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0, 
+0
+CONNECTION 1 2 - A rowdy street kid...<S>...hardly ever becomes foreign minister!
+CONNECTION 2 0 - Because everybody always loved you, it was hard...<S>...to fight for something as a foreign minister.
+CONNECTION 2 1 - Because you spent all your youth drumming,...<S>...it was hard to have an ambitious career later.
+CONNECTION 3 2 - After you life as a terrorist...<S>...it was practically impossible to become foreign minister.
+CONNECTION 3 1 - Drinking your youth away doesn't help...<S>...to become foreign minister!
+CONNECTION 4 0 + Because you were used to success as professor...<S>...it was easy to become foreign minister later.
+CONNECTION 5 2 - Failing to cope with a burn-out...<S>...made it hard for you to work ever again.
+CONNECTION 5 3 + After coping with a burn-out,...<S>...you easily got back to business as foreign minister.
+CONNECTION 4 3 - After your modest life as a cashier...<S>...being foreign minister was hard for you.
+CONNECTION 3 3 - Because you lost interest in reality as a gamer...<S>...becoming a foreign minister was hard.
+CONNECTION 2 3 - Because you had it hard as a student...<S>...you were not well prepared to be foreign minister either.
+CONNECTION 2 3 + Because of your good education...<S>...it was easy to become foreign minister.
+CONNECTION 1 3 - Because you were a child worker...<S>...having a political career was hard for you.

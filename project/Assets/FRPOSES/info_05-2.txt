@@ -1,0 +1,71 @@
+NAME Superstar
+BMP 116
+COLOR 238 2 130 255
+NDESC Chanteuse et artiste super talentueuse
+INDEX 1 1
+CHANGE Vous avez été horrible comme fille super talentueuse !
+0,0.2
+CHANGE Vous avez été mauvaise comme fille super talentueuse !
+0.2,0.4
+CHANGE Vous avez été médiocre comme fille super talentueuse !
+0.4,0.6
+CDESC Avoir une carrière sera difficile pour vous.
+0,
+0,0,0,0, 
+0,0,0,1, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Il sera fréquent et facile de vous laisser aller par la suite.
+0,
+0,0,0,0, 
+0,-1,0,0, 
+0,-1,0,0, 
+0,-1,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE Vous avez été bonne comme fille super talentueuse !
+0.6,0.8
+CHANGE Vous avez été excellente comme fille super talentueuse !
+0.8,1
+CDESC Vous êtes partie pour une sacrée carrière !
+0,
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,0, 
+-1,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Mais vous risquez le burn-out.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Mener une vie de famille sera plus difficile.
+0,
+0,0,0,0, 
+0,0,1,0, 
+1,0,0,0, 
+0,1,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+

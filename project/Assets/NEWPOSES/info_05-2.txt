@@ -1,0 +1,71 @@
+NAME Superstar
+BMP 116
+COLOR 238 2 130 255
+NDESC Super Talented Singer and Performer
+INDEX 1 1
+CHANGE You did horrible as a super talented girl!
+0,0.2
+CHANGE You did bad as a super talented girl!
+0.2,0.4
+CHANGE You did poorly as a super talented girl!
+0.4,0.6
+CDESC Having a career will be hard for you.
+0,
+0,0,0,0, 
+0,0,0,1, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Better to take life easy.
+0,
+0,0,0,0, 
+0,-1,0,0, 
+0,-1,0,0, 
+0,-1,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE You did good as a super talented girl!
+0.6,0.8
+CHANGE You did excellent as a super talented girl!
+0.8,1
+CDESC You're heading for quite a career!
+0,
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,0, 
+-1,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC But very likely to burnout.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Family life is a harder way to go.
+0,
+0,0,0,0, 
+0,0,1,0, 
+1,0,0,0, 
+0,1,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+

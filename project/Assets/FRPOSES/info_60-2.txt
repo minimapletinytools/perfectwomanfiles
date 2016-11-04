@@ -1,0 +1,54 @@
+NAME Collectrice de fonds
+BMP 129
+COLOR 238 2 130 255
+NDESC Conférencière à des événements caritatifs
+INDEX 6 1
+CHANGE Votre vie en tant qu'activiste caritative fut horrible !
+0,0.2
+CHANGE Votre vie en tant qu'activiste caritative fut mauvaise !
+0.2,0.4
+CHANGE Votre vie en tant qu'activiste caritative fut médiocre !
+0.4,0.6
+CDESC Pas d'inquiétude, vous oublierez vite ! 
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0, 
+0
+CHANGE Votre vie en tant qu'activiste caritative fut bonne !
+0.6,0.8
+CHANGE Votre vie en tant qu'activiste caritative fut excellente !
+0.8,1
+CDESC Vous êtes vraiment une personne moraliste !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0, 
+0
+CDESC Mais votre ouverture envers les autres cultures est une imposture !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,1, 
+0, 
+0
+CONNECTION 2 2 - Vous avez véritablement vécu la guerre,...<S>...il fut donc difficile pour vous de vous sentir à l'aise lors d'événements caritatifs.
+CONNECTION 4 2 - Quelqu'un qui a perdu son enfant suite à une leucémie, ne peut pas...<S>...aller de pair avec l'hypocrisie du monde caritatif.
+CONNECTION 5 1 + En tant que riche épouse vous...<S>...connaissiez déjà tout le monde dans le milieu caritatif.
+CONNECTION 5 3 - Parce qu'ils détestent les chasseurs de baleines...<S>...vous n'avez jamais pu vous mêler aux activistes du milieu caritatif.
+CONNECTION 5 3 + Parce que vous regrettiez d'avoir chassé les baleines...<S>...vous êtes devenue une bonne collectrice de fonds.
+CONNECTION 3 3 - En tant que gameuse professionnelle...<S>...vous n'étiez pas intéressée dans l'humain et la charité.

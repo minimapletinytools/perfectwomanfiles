@@ -1,0 +1,54 @@
+NAME Call Girl
+BMP 109,7143
+COLOR 238 2 130 255
+NDESC Call Girl
+INDEX 6 3
+CHANGE You were a horrible call girl!
+0,0.2
+CHANGE Your were a bad call girl!
+0.2,0.4
+CHANGE You performed poorly as a call girl!
+0.4,0.6
+CDESC It’s easiest to forget call girl!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0, 
+0
+CHANGE You were a good call girl!
+0.6,0.8
+CHANGE You were an excellent call girl!
+0.8,1
+CDESC You gained a lot of life experience.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0, 
+0
+CDESC But becoming churchy in your old days will be hard.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,1,0, 
+0, 
+0
+CONNECTION 5 3 + You were used to unethical actions as a wale hunter...<S>...so you had no problems becoming a call girl later.
+CONNECTION 4 3 + You felt unchallenged as a cashier...<S>...so it was easy for you to become a call girl.
+CONNECTION 3 3 + Because you already learned about extreme jobs as professional gamer...<S>...it was easier for you to  become a call girl.
+CONNECTION 2 3 - Your education as an eager student...<S>...was not a good preparation for becoming a call girl at 60.
+CONNECTION 2 0 - Because you loved sex from early on...<S>...it was easy for you to become a call girl at 60.
+CONNECTION 3 0 - Because as a mother you wanted to be a role model for your kids...<S>...it was hard for you to become a call girl at 60.

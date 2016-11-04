@@ -1,0 +1,19 @@
+NAME Matriarch
+BMP 119
+COLOR 255 219 22 255
+NDESC Tribal Matriarch
+INDEX 7 2
+CHANGE You had a horrible death as a tribal matriarch!
+0,0.2
+CHANGE You had a painful death as a tribal matriarch!
+0.2,0.4
+CHANGE You had a normal death as a tribal matriarch!
+0.4,0.6
+CHANGE You had a peaceful death as a tribal matriarch!
+0.6,0.8
+CHANGE You died in a perfect way as a tribal matriarch!
+0.8,1
+CONNECTION 4 3 + Because being cashier was too boring for you...<S>...you rather became a tribal matriarch later.
+CONNECTION 4 3 - Your simple life as a cashier...<S>...made it not exactly easy to change into a tribal matriarch.
+CONNECTION 5 0 + Your spiritual life as a belly dancer...<S>...made it easy to become a matriarch later.
+CONNECTION 4 1 + Because you had an original life as a beach mom...<S>...it was easy for you to become a tribal matriarch.

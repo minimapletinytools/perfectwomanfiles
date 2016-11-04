@@ -1,0 +1,72 @@
+NAME Drunken
+BMP 140
+COLOR 238 2 130 255
+NDESC Drunk Girl on Oktoberfest
+INDEX 3 1
+CHANGE Your life as a drunk girl was horrible!
+0,0.2
+CHANGE Your life as a drunk girl was bad!
+0.2,0.4
+CHANGE You performed poorly as a drunk girl!
+0.4,0.6
+CDESC Because drinking ruined your brain, it will be extremely hard to get an ambitious job.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+9,0,0,0, 
+0,0,0,0, 
+9,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC But you can always go into the sex industry.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,0, 
+0, 
+0
+CHANGE Your life as a drunk girl was good!
+0.6,0.8
+CHANGE Your life as a drunk girl was excellent!
+0.8,1
+CDESC Enjoying life is easy!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0, 
+0
+CDESC But working to making a living is not so much fun.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,1, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Having a career will be really hard now.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+9,0,0,0, 
+0,0,0,0, 
+9,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CONNECTION 2 3 - Your ambition as a student...<S>...made it really hard to let go later in life.
+

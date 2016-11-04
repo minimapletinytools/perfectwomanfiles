@@ -1,0 +1,67 @@
+NAME Caissière
+BMP 120
+COLOR 255 219 22 255
+NDESC Caissière à Franprix
+INDEX 4 3
+CHANGE Vous avez été horrible comme caissière ! 
+0,0.2
+CHANGE Vous avez été mauvaise comme caissière ! 
+0.2,0.4
+CHANGE Vous avez été médiocre comme caissière !
+0.4,0.6
+CDESC Peut-être devriez-vous envisager quelque chose de plus excitant !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,-1, 
+0,0,0,-1, 
+0, 
+0
+CDESC Viser une carrière ambitieuse sera dur pour vous !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+9,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE Vous avez été bonne comme caissière !
+0.6,0.8
+CHANGE Vous avez été excellente comme caissière !
+0.8,1
+CDESC Une vie modeste semble appropriée pour vous.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0, 
+0
+CDESC Mais avoir un style de vie chic sera vraiment difficile.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+9,1,0,0, 
+0,0,0,9, 
+0, 
+0
+CONNECTION 2 3 + Puisque vous n'étiez pas une bonne élève...<S>...devenir caissière fut naturel pour vous.
+CONNECTION 3 0 + Parce que cela convenait à votre vie de mère...<S>...vous pouviez facilement devenir caissière.
+CONNECTION 3 0 - Parce que cela convenait à votre vie de mère...<S>...vous pouviez facilement devenir caissière.
+CONNECTION 1 3 + Puisque vous avez été une enfant travailleuse sous-payée...<S>...il était simple de devenir caissière sous-payée.
+CONNECTION 2 3 - Puisque vous avez fait de bonnes études...<S>...vous avez eu du mal à accepter d'être caissière.
+CONNECTION 3 1 + Puisque vous avez trop bu durant l'Oktoberfest...<S>...il était plus simple pour vous de devenir caissière.
+
+

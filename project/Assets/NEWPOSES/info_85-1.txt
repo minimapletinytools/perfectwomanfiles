@@ -1,0 +1,21 @@
+NAME Wise
+BMP 114.07
+NDESC Wise and Experienced Grandmother
+INDEX 7 0
+CHANGE You had a horrible death as a wise old grandmother!
+0,0.2
+CHANGE You had a painful death as a wise old grandmother!
+0.2,0.4
+CHANGE You had a normal death as a wise old grandmother!
+0.4,0.6
+CHANGE You had a peaceful death as a wise old grandmother!
+0.6,0.8
+CHANGE You died in a perfect way as a wise old grandmother!
+0.8,1
+CONNECTION 4 0 - Because you did nothing but work as a successful professor,...<S>...it was hard to become wise and experienced as an old lady.
+CONNECTION 4 2 + Loosing a child made you...<S>...experienced and wise as a grandmother. 
+CONNECTION 5 0 + You found your inner peace as a belly dance teacher...<S>...That made you become a wise old grandmother at 85.
+CONNECTION 5 1 - Spending a lot of time being a rich wife, made it...<S>...hard for you to become a wise and experienced grandmother later. 
+CONNECTION 6 0 + Foreign ministers experience a lot,...<S>...that made you wise at 85.
+CONNECTION 6 3 + Because you gained a lot of life experience as a Porn Star...<S>...becoming a wise grandmother was easy for you.
+CONNECTION 4 7 + Your simple life as a cashier made it easy for you...<S>...to continue a simple life when you were old.

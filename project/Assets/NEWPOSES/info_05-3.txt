@@ -1,0 +1,82 @@
+NAME Gang leader
+BMP 120
+COLOR 238 2 130 255
+NDESC Street Kid Leading a Gang
+INDEX 1 2
+CHANGE Your life as a gang leader was horrible!
+0,0.2
+CHANGE Your life as a gang leader was bad!
+0.2,0.4
+CHANGE Your life as a gang leader was poor!
+0.4,0.6
+CDESC You’re not the lucky kind of person.
+0,
+0,0,0,0, 
+1,0,0,1, 
+0,0,0,0, 
+0,0,0,0, 
+0,1,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Prepare for a simple life style!
+0,
+0,0,0,0, 
+0,0,-1,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0, 
+0
+CHANGE Your life as a gang leader was good!
+0.6,0.8
+CHANGE Your life as a gang leader was excellent!
+0.8,1
+CDESC The streets are your place to be!
+0,
+0,0,0,0, 
+0,0,-1,0, 
+0,0,-1,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC You’ll have an interesting youth.
+0,
+0,0,0,0, 
+1,0,0,1, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC But you’re heading for dubious a career!
+0,
+0,0,0,0, 
+0,-1,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,-1, 
+0,0,0,0, 
+0, 
+0
+CDESC You’ll never make it into high society.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+9,0,0,0, 
+0,9,0,0, 
+9,0,0,0, 
+0,0,0,0, 
+0, 
+0
+

@@ -1,0 +1,63 @@
+NAME Chasseuse de baleine
+BMP 129
+COLOR 238 2 130 255
+NDESC Chasseuse de baleine
+INDEX 5 3
+CHANGE Vous êtes une horrible chasseuse de baleine !
+0,0.2
+CHANGE Vous êtes une mauvaise chasseuse de baleine !
+0.2,0.4
+CHANGE Vous êtes une chasseuse de baleine médiocre !
+0.4,0.6
+CDESC Vous êtes désolée pour les baleines et souhaitez compenser vos actions.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Il sera difficile de devenir un modèle pour la société !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,1,0,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE Vous êtes une bonne chasseuse de baleine !
+0.6,0.8
+CHANGE Vous êtes une excellente chasseuse de baleine !
+0.8,1
+CDESC Vous n'aurez aucun problème à vivre sans éthique.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,0, 
+0, 
+0
+CDESC Mais devenir une autorité morale sera presque impossible.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+1,9,0,0, 
+0,0,1,0, 
+0, 
+0
+CONNECTION 4 3 + Votre vie comme caissière était trop ennuyeuse...<S>...vous avez donc eu de bons moments comme chasseuse de baleine.
+CONNECTION 3 3 + Puisque vous aviez l'habitude des tâches extrêmes comme gameuse professionnelle...<S>...devenir chasseuse de baleine fut un travail facile.
+CONNECTION 3 2 + En tant que terroriste, vous étiez habituée aux actes immoraux...<S>...et il fut facile de devenir chasseuse de baleine. 
+CONNECTION 4 1 + Parce que vous aimiez la nature et la plage...<S>...il fut difficile de devenir chasseuse de baleine.

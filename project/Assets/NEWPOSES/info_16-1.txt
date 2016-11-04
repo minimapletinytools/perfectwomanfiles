@@ -1,0 +1,70 @@
+NAME Sexy
+BMP 127
+COLOR 238 2 130 255
+NDESC Teenager that Everybody Wants to have Sex With
+INDEX 2 0
+CHANGE Your life as a sexy girl was horrible!
+0,0.2
+CHANGE Your life as a sexy girl was bad!
+0.2,0.4
+CHANGE You performed poorly as a sexy girl!
+0.4,0.6
+CDESC You’re afraid of love!
+0,
+0,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,1,0,0, 
+0,1,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC At least you can make some money out of your sex-appeal!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,0, 
+0, 
+0
+CHANGE Your life as a sexy girl was good!
+0.6,0.8
+CHANGE Your life as a sexy girl was excellent!
+0.8,1
+CDESC You like it the easy way.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0,-1,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC And you have sexual talent.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,0, 
+0, 
+0
+CDESC But fighting for something will be hard for you.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+0, 
+0

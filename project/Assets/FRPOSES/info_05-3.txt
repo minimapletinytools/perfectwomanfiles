@@ -1,0 +1,82 @@
+NAME Cheffe de gang
+BMP 120
+COLOR 238 2 130 255
+NDESC Enfant des rues cheffe de gang
+INDEX 1 2
+CHANGE Votre vie de cheffe de gang fut horrible !
+0,0.2
+CHANGE Votre vie de cheffe de gang fut mauvaise !
+0.2,0.4
+CHANGE Votre vie de cheffe de gang fut médiocre !
+0.4,0.6
+CDESC Vous n'êtes pas du genre chanceuse.
+0,
+0,0,0,0, 
+1,0,0,1, 
+0,0,0,0, 
+0,0,0,0, 
+0,1,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Préparez vous pour un style de vie simple !
+0,
+0,0,0,0, 
+0,0,-1,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0, 
+0
+CHANGE Votre vie de cheffe de gang fut bonne !
+0.6,0.8
+CHANGE Votre vie de cheffe de gang fut excellente !
+0.8,1
+CDESC Les rues sont votre domaine !
+0,
+0,0,0,0, 
+0,0,-1,0, 
+0,0,-1,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Vous vivez une jeunesse intéressante.
+0,
+0,0,0,0, 
+1,0,0,1, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Mais vous partez pour une carrière douteuse !
+0,
+0,0,0,0, 
+0,-1,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,-1, 
+0,0,0,0, 
+0, 
+0
+CDESC Vous n'appartiendrez jamais à la haute société.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+9,0,0,0, 
+0,9,0,0, 
+9,0,0,0, 
+0,0,0,0, 
+0, 
+0
+

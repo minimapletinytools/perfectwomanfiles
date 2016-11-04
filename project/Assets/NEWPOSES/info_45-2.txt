@@ -1,0 +1,74 @@
+NAME Rich Wife
+BMP 125
+NDESC Rich Wife
+INDEX 5 1
+CHANGE Your rich marriage was horrible!
+0,0.2
+CHANGE Your rich marriage was bad!
+0.2,0.4
+CHANGE You performed poorly as a rich wife!
+0.4,0.6
+CDESC Let’s better forget about it!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0, 
+0
+CDESC You should try it with something else!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,-1, 
+0,0,0,0, 
+0, 
+0
+CHANGE Your rich marriage was good!
+0.6,0.8
+CHANGE Your rich marriage was excellent!
+0.8,1
+CDESC High society is your place to be!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,-9,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Alternative life styles are too extreme for you!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,1, 
+0,0,0,1, 
+0, 
+0
+CDESC Unfortunately you don’t experience a lot.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0, 
+0
+CONNECTION 1 0 - Being a horrible princess at 9...<S>...made it hard for you to get into high society!
+CONNECTION 1 2 - Being a street kid at 9 made it hard...<S>...to get into high society later.
+CONNECTION 2 2 - Being a poor teenager during war made it...<S>...hard to enter high society later.
+CONNECTION 4 2 - Having experiences the loss of your child,...<S>...an easygoing rich life was hard for you.
+CONNECTION 2 3 + Since you were a bad student...<S>...marrying somebody rich was an easy option for you.

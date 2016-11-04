@@ -1,0 +1,91 @@
+NAME Étudiante
+BMP 129
+COLOR 238 2 130 255
+NDESC Élève avide d'apprendre
+INDEX 2 3
+CHANGE Vous êtes une très mauvaise élève !
+0,0.2
+CHANGE Vous êtes une mauvaise élève !
+0.2,0.4
+CHANGE Vous êtes une élève médiocre !
+0.4,0.6
+CDESC Avoir une carrière sera difficile pour vous !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Il sera plus facile de vivre de l'argent des autres.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0,-1,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Mais vous subirez plus difficilement un burn-out plus tard !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,9,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE Vous êtes une bonne élève !
+0.6,0.8
+CHANGE Vous êtes une étudiante élève !
+0.8,1
+CDESC Vous aurez une grande carrière !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-9,0,0,0, 
+0,0,0,0, 
+-9,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Mais vous manquerez certainement certains plaisirs de la vie.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,9,0,0, 
+0,9,0,0, 
+0,0,0,0, 
+0,0,0,1, 
+0,0,0,0, 
+0, 
+0
+CDESC Vous couvez sans doute un burn-out pour vos 45 ans.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,-9,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CONNECTION 1 3 + Vous étiez une piètre enfant travailleuse...<S>...l'école fut un meilleur choix.
+CONNECTION 1 3 - Parce qu'une enfant travailleuse n'a pas le temps d'étudier...<S>...devenir une élève studieuse fut difficile.
+CONNECTION 1 2 - Parce qu'en tant enfant des rues, vous n'êtes pas allée à l'école...<S>...il fut difficle d'être studieuse à 16 ans.
+CONNECTION 1 1 + En tant que superstar vous aviez l'habitude d'être la meilleure...<S>...donc vous pouviez facilement devenir la meilleure élève !
+
+
+
+
+
+

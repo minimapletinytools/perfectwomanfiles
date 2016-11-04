@@ -1,0 +1,63 @@
+NAME Furieuse
+BMP 129
+COLOR 255 219 22 255
+NDESC <A> Furieuse car votre fille est devenue un homme.
+INDEX 6 2
+CHANGE Vous avez été horrible en vous mettant en colère contre votre fille !
+0,0.2
+CHANGE Vous avez été mauvaise en gérant votre colère contre votre fille !
+0.2,0.4
+CHANGE Vous avez été médiocre en gérant votre colère contre votre fille !
+0.4,0.6
+CDESC Pas d'inquiétude, vous oublierez vite !  
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-9,0,0, 
+0, 
+0
+CDESC Mais vous gardez des préjugés envers les autres styles de vie ! 
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,1, 
+0, 
+0
+CHANGE Vous avez bien géré votre colère contre votre fille !
+0.6,0.8
+CHANGE Vous avez parfaitement géré votre colère contre votre fille !
+0.8,1
+CDESC Vous êtes une personne profondément religieuse !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0, 
+0
+CDESC Mais vous n'avez pas appris à être ouverte d'esprit !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+1,0,0,1, 
+0, 
+0
+CONNECTION 3 0 + Avoir eu des enfants a révélé...<S>...que vous êtes une personne très intolérante.
+CONNECTION 4 1 - En tant que lesbienne à la plage,...<S>...il était presque impossible pour vous de devenir intolérante et furieuse.
+CONNECTION 4 2 - Perdre un être cher a rendu difficile...<S>...tout jugement de valeurs sur le changement de sexe de votre enfant.
+CONNECTION 5 2 + Avoir mal vécu votre burn-out vous prédisposait à...<S>...être furieuse du changement de sexe de votre enfant.

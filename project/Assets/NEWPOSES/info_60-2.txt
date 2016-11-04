@@ -1,0 +1,54 @@
+NAME Fundraiser
+BMP 129
+COLOR 238 2 130 255
+NDESC Speaker At Charity Event
+INDEX 6 1
+CHANGE Your life as a charity activist was horrible!
+0,0.2
+CHANGE Your life as a charity activist was bad!
+0.2,0.4
+CHANGE Your life as a charity activist was poor!
+0.4,0.6
+CDESC Don't worry, you can easily forget! 
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0, 
+0
+CHANGE Your life as a charity activist was good!
+0.6,0.8
+CHANGE Your life as a charity activist was excellent!
+0.8,1
+CDESC You are truly a moralistic person!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0, 
+0
+CDESC But your openness towards other cultures is all fake!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,1, 
+0, 
+0
+CONNECTION 2 2 - You've seen real war,...<S>…so it was hard for you to feel comfortable at charity events.
+CONNECTION 4 2 - Someone whose child died of leukemia, doesn't...<S>...get along with hypocrite charity society.
+CONNECTION 5 1 + As a rich wife you already...<S>...knew everybody in charity society.
+CONNECTION 5 3 - Because they hate whale hunters...<S>...you never got along with charity activists well.
+CONNECTION 5 3 + Because you were sorry for hunting whales...<S>...you were a good fundraiser.
+CONNECTION 3 3 - Being a professional gamer...<S>...you were not interested in humans and charity.

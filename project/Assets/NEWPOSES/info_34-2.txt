@@ -1,0 +1,85 @@
+NAME Beach mom
+BMP 149
+COLOR 238 2 130 255
+NDESC <A> Raising an Adopted Child at the Beach
+INDEX 4 1
+CHANGE You did horrible as an adoptive mother!
+0,0.2
+CHANGE You did bad as an adoptive mother!
+0.2,0.4
+CHANGE You did poor as an adoptive mother!
+0.4,0.6
+CDESC Try it with something normal next time!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC A conservative life style might be hard for you, though.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,9,0, 
+0,0,9,0, 
+0, 
+0
+CDESC At least you’ll never suffer from burn-out.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,9,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE You did good as an adoptive mother!
+0.6,0.8
+CHANGE You did excellent as an adoptive mother!
+0.8,1
+CDESC Chill a lot and enjoy life!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0,0,0,0, 
+0,-1,0,-1, 
+0, 
+0
+CDESC A conformed life will be difficult for you!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+9,0,9,0, 
+0,0,0,0, 
+0, 
+0
+CDESC At least you’ll never suffer from burn-out
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,9,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CONNECTION 1 1 + Failing as a child star taught you to take life easy.
+CONNECTION 3 2 + After being a terrorist,...<S>...it was easy to become a drop-out.
+CONNECTION 2 3 - Because you had an ambitious youth...<S>...it was hard for you to relax as a beach mom later.
+CONNECTION 3 3 + You had a hard time as professional gamer...<S>...so you wanted to try out life at the beach. 

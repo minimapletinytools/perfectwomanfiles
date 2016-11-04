@@ -1,0 +1,17 @@
+NAME Demented
+BMP 94
+COLOR 238 2 130 255
+NDESC <A> Demented but Happy
+INDEX 7 1
+CHANGE You had a horrible death as a demented grandmother!
+0,0.2
+CHANGE You had a painful death as a demented grandmother!
+0.2,0.4
+CHANGE You had a poor death as a demented grandmother!
+0.4,0.6
+CHANGE You had a peaceful death as a demented grandmother!
+0.6,0.8
+CHANGE You died in a perfect way as a demented grandmother!
+0.8,1
+CONNECTION 6 1 + Because you felt pathetic as a fundraiser,...<S>...it was easy to forget everything as a demented grandmother.
+CONNECTION 6 2 + Failing as an angry mother...<S>...you just wanted to forget everything when you were old.

@@ -1,0 +1,66 @@
+NAME Professeure
+BMP 123.2
+	NDESC Professeure émérite au MIT
+INDEX 4 0
+CHANGE Vous avez eu une vie horrible comme professeure émérite !
+0,0.2
+CHANGE Vous avez eu une mauvaise vie comme professeure émérite !
+0.2,0.4
+CHANGE Vous avez été médiocre comme professeure émérite !
+0.4,0.6
+CDESC Vous allez bientôt ressentir les mauvais aspects de votre carrière.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Revenez à la normale. C'est plus facile pour vous !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0, 
+0
+
+CHANGE Vous avez eu une bonne vie comme professeure émérite !
+0.6,0.8
+CHANGE Vous avez eu une excellente vie comme professeure émérite !
+0.8,1
+CDESC Vous êtes taillée pour une carrière exigeante !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,-9,0, 
+-1,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Mais vivre une vie normale sera difficile pour vous !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0, 
+0
+CONNECTION 1 2 - Parce que vous étiez une enfant des rues,...<S>...il était pratiquement impossilbe d'avoir une brillante carrière par la suite.
+CONNECTION 3 1 - Si vous noyez votre jeunesse dans l'alcool à l'Oktoberfest,...<S>...il est difficile de viser une carrière brillante à 34 ans.
+CONNECTION 3 2 - Une terroriste a d'énorme problème pour devenir...<S>...professeure émérite dans le pays qu'elle a attaqué.
+CONNECTION 2 3 - Parce que vous étiez une élève peu studieuse...<S>...devenir professeure fut difficile pour vous.
+CONNECTION 2 3 + Parce que vous étiez une élève studieuse...<S>...vous n'avez pas eu de mal à devenir professeure.
+CONNECTION 1 3 - Parce que vous n'avez reçu aucun enseignement en étant enfant travailleuse...<S>...il fut difficile de devenir professeure par la suite.
+

@@ -1,0 +1,61 @@
+NAME Gamer
+BMP 157,7130
+COLOR 238 2 130 255
+NDESC Pro Gamer
+INDEX 3 3
+CHANGE Your life as a professional gamer was horrible!
+0,0.2
+CHANGE Your life as a professional gamer was bad!
+0.2,0.4
+CHANGE You performed poorly as a professional gamer.
+0.4,0.6
+CDESC Get in touch with real life!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+-1,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE You did good as a professional gamer!
+0.6,0.8
+CHANGE You did excellent as a professional gamer!
+0.8,1
+CDESC Extreme jobs are easy for you.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,-1, 
+0,0,0,0, 
+0, 
+0
+CDESC You do not care much for ethics.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+1,1,0,0, 
+0,0,0,0, 
+0, 
+0
+CONNECTION 1 0 + A princess always gets what she wants...<S>...which is playing games in your case!
+CONNECTION 2 1 + As a sexy teenager you did what you wanted to do...<S>...and became a professional gamer.
+CONNECTION 2 2 - Because you had to survive a war...<S>...it was hard to get in touch with computer games.
+CONNECTION 1 2 - As a street kid you never tried out computer games...<S>...so you had a hard time as a professional gamer.
+CONNECTION 1 3 - As a child worker you did not own a computer...<S>...so it was hard to learn how to play games later.
+CONNECTION 2 3 - As an eager student you never allowed yourself to play games...<S>...so you had a hard time as a professional gamer.
+
+
+
+
+
+
+

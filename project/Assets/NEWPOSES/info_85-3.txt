@@ -1,0 +1,23 @@
+NAME Prayer
+BMP 119
+COLOR 255 219 22 255
+NDESC <A> Praying To God To Take You To Heaven
+INDEX 7 2
+CHANGE You had a horrible death as a religious old lady!
+0,0.2
+CHANGE You had a painful death as a religious old lady!
+0.2,0.4
+CHANGE You had a normal death as a religious old lady!
+0.4,0.6
+CHANGE You had a peaceful death as a religious old lady!
+0.6,0.8
+CHANGE You died in a perfect way as a religious old lady!
+0.8,1
+CONNECTION 2 1 - Band members...<S>...never believe in god!
+CONNECTION 4 1 + Living as a lesbian at the beach...<S>...made it hard for you to become religious in your 80ies.
+CONNECTION 4 2 + Difficult fate, like the death of your child,...<S>...easily drove you into religion's arms.
+CONNECTION 6 0 - As a foreign minister you have seen too much of the world...<S>...to still believe in god.
+CONNECTION 6 1 + Because you were a moral person as a fund raiser already...<S>...becoming religious was easy for you.
+CONNECTION 6 2 + Being angry at your daughter because of her sex reassignment surgery,...<S>...it was easy for you to become a religious old lady.
+CONNECTION 6 3 - Because you were a call girl...<S>...church made it hard for you to believe in god later.
+CONNECTION 5 3 - Because you killed many of his creatures as a Whale Hunter...<S>...god had a hard time listen to your prayers.

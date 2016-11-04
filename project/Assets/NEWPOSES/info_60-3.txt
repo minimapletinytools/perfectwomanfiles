@@ -1,0 +1,63 @@
+NAME Angry
+BMP 129
+COLOR 255 219 22 255
+NDESC <A> Angry Because Your Daughter Became A Man
+INDEX 6 2
+CHANGE You did a horrible job, being angry at your daughter!
+0,0.2
+CHANGE You did a bad job, being angry at your daughter!
+0.2,0.4
+CHANGE You did a poor job, being angry at your daughter!
+0.4,0.6
+CDESC Don't worry, you can easily forget! 
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-9,0,0, 
+0, 
+0
+CDESC But you remain with prejudices towards other life styles! 
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,1, 
+0, 
+0
+CHANGE You did a good job, being angry at your daughter!
+0.6,0.8
+CHANGE You did an excellent job, coping with your anger!
+0.8,1
+CDESC You are a truly religious person!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0, 
+0
+CDESC But you haven’t learned to be open minded!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+1,0,0,1, 
+0, 
+0
+CONNECTION 3 0 + Having children can reveal...<S>...that you're a very intolerant person.
+CONNECTION 4 1 - Being a lesbian at the beach,...<S>...it was almost impossible to become intolerant and angry.
+CONNECTION 4 2 - Loosing a loved one made it hard...<S>...to become judgmental about a sex reassignment surgery of you child.
+CONNECTION 5 2 + Failing as a burned out woman made it more likely to...<S>...get angry at the sex reassignment surgery of your daughter.

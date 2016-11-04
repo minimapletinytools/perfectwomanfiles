@@ -1,0 +1,58 @@
+NAME Mourning
+BMP 120
+NDESC Mother whose Child Dies Of Leukemia
+INDEX 4 2
+CHANGE You did horrible as a mother whose child dies!
+0,0.2
+CHANGE You did bad as a mother whose child dies!
+0.2,0.4
+CHANGE You dealt poorly with the death of your child!
+0.4,0.6
+CDESC An easy going life is unthinkable now.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,9,0,0, 
+0,9,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Seeking help in religion maybe an option.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,-9,-1, 
+0, 
+0
+CHANGE You dealt good with the death of your child!
+0.6,0.8
+CHANGE You dealt excellently with the death of your child!
+0.8,1
+CDESC A superficial life is unthinkable for you.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,9,0,0, 
+0,0,9,0, 
+0,0,0,0, 
+0, 
+0
+CDESC But you can profit from some experience!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-9,0,0,-1, 
+0, 
+0

@@ -1,0 +1,58 @@
+NAME Deuil
+BMP 120
+NDESC Mère dont l'enfant décède d'une leucémie
+INDEX 4 2
+CHANGE Vous avez horriblement géré la mort de votre enfant !
+0,0.2
+CHANGE Vous avez mal géré la mort de votre enfant !
+0.2,0.4
+CHANGE Vous avez géré médiocrement la mort de votre enfant !
+0.4,0.6
+CDESC Avoir une vie facile est à présent impensable.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,9,0,0, 
+0,9,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Chercher refuge dans la religion peut être une option.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,-9,-1, 
+0, 
+0
+CHANGE Vous avez bien géré la mort de votre enfant !
+0.6,0.8
+CHANGE Vous avez parfaitement géré la mort de votre enfant !
+0.8,1
+CDESC Avoir une vie superficielle est à présent impensable.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,9,0,0, 
+0,0,9,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Mais vous pouvez compter sur votre expérience personnelle !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-9,0,0,-1, 
+0, 
+0

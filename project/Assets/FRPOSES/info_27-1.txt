@@ -1,0 +1,82 @@
+NAME Maman
+BMP 100
+NDESC Mère de deux heureux enfants
+INDEX 3 0
+CHANGE Votre vie en tant que mère fut horrible !
+0,0.2
+CHANGE Votre vie en tant que mère fut mauvaise !
+0.2,0.4
+CHANGE Vous étiez médiocre en tant que mère de 2 heureux enfants !
+0.4,0.6
+CDESC Il y a des chances pour que vous soyez malheureuse avec vos enfants.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Accomplir vos rêves sera difficile pour vous à présent.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+1,1,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Votre vie nécessitera beaucoup de travail.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE Votre vie en tant que mère fut bonne !
+0.6,0.8
+CHANGE Votre vie en tant que mère fut excellente !
+0.8,1
+CDESC Vous pouvez avoir une vie accomplie !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+-1,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0, 
+0
+CDESC En compagnie d'enfants vous vivez d'intenses expériences.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0,0,0,0, 
+0,0,-1,0, 
+-1,0,0,0, 
+0, 
+0
+CDESC Mais avoir une carrière sera difficile pour vous !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CONNECTION 1 1 - Être habituée à une vie de carrière en tant qu'enfant star...<S>...rend votre vie de mère difficile à accepter.
+CONNECTION 2 2 - Ne pas être capable de prendre soin de votre frère durant la guerre...<S>...rend difficile la gestion de votre propre famille.

@@ -1,0 +1,17 @@
+NAME Démente
+BMP 94
+COLOR 238 2 130 255
+NDESC <A> Démente mais heureuse
+INDEX 7 1
+CHANGE Grand-mère démente, vous êtes morte horriblement !
+0,0.2
+CHANGE Grand-mère démente, vous êtes morte douloureusement !
+0.2,0.4
+CHANGE Grand-mère démente, vous êtes morte normalement !
+0.4,0.6
+CHANGE Grand-mère démente, vous êtes morte paisiblement !
+0.6,0.8
+CHANGE Grand-mère démente, vous êtes morte de la meilleure façon !
+0.8,1
+CONNECTION 6 1 + Parce que vous vous sentiez pathétique comme collectrice de fonds,...<S>...il fut facile d'oublier tout dans votre démence.
+CONNECTION 6 2 + En échouant comme mère colérique,...<S>...vous vouliez juste tout oublier en vieillissant.

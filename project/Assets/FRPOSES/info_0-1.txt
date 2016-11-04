@@ -1,0 +1,40 @@
+NAME Fœtus
+BMP 129
+NDESC Fœtus dans le ventre de votre mère
+INDEX 0 0
+CHANGE
+0,1
+CDESC Vos décisions affecteront vos choix futurs.
+CDESC En jaune ce qui rend la vie plus facile.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC En rouge ce qui rend la vie plus difficile.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Préparez-vous à naître !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0

@@ -1,0 +1,63 @@
+NAME Whale Hunter
+BMP 129
+COLOR 238 2 130 255
+NDESC Whale Hunter
+INDEX 5 3
+CHANGE You’re a horrible whale hunter!
+0,0.2
+CHANGE You’re a bad whale hunter!
+0.2,0.4
+CHANGE You performed poorly as a whale hunter!
+0.4,0.6
+CDESC You’re sorry for the whales and want to compensate for it.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC But it will be hard to become a role model for society!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,1,0,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE You’re a good whale hunter!
+0.6,0.8
+CHANGE You’re an excellent whale hunter!
+0.8,1
+CDESC You’ll have no problems with unethical life styles.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,0, 
+0, 
+0
+CDESC But becoming a moral authority will be almost impossible.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+1,9,0,0, 
+0,0,1,0, 
+0, 
+0
+CONNECTION 4 3 + Your life as a cashier was too boring...<S>...so you had a good time as a whale hunter.
+CONNECTION 3 3 + Because you were used to extreme jobs as a professional gamer...<S>...you had an easy time as a whale hunter later.
+CONNECTION 3 2 + As a terrorist, you were used to unethical actions...<S>...and it became easy to be a whale hunter.
+CONNECTION 4 1 + Because you loved nature as a beach mom...<S>...it was hard to become a whale hunter later.

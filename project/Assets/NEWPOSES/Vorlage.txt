@@ -1,0 +1,75 @@
+NAME Child Worker
+COLOR 255 219 22 255
+NDESC Child Worker
+INDEX 1 3
+CHANGE Your life as a Child Worker was horrible!
+0,0.2
+CHANGE Your life as a child worker was bad!
+0.2,0.4
+CDESC You would rather go to school!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC But a stellar career remains hard for you!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+0, 
+0
+
+CHANGE You are a mediocre Child Worker!
+0.4,0.6
+CHANGE You are a good Child Worker!
+0.6,0.8
+CHANGE You are an excellent Child Worker!
+0.8,1
+CDESC Unfortunately it will be hard to get some education.
+0,
+0,0,0,0, 
+0,0,0,9, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+,0,0,0, 
+0, 
+0
+CDESC A low-income job and long working hours seems like your future.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC You can still become a rebel, though.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CONNECTION 1 2 - Because as a Child Worker you had little time for study…<S>…being an Eager Student was very hard.
+CONNECTION 1 4 - Because you had no education as a Child Worker…<S>…your life as a Professor was really hard.
+CONNECTION 1 3 + Because you were exploited as a Child Worker…<S>…you could easily become a terrorist.
+CONNECTION 1 2 + You were a bad Child Worker…<S>…and rather wanted to go to school.
+CONNECTION 1 6 - Because you were a Child Worker…<S>…having a political career was hard for you.

@@ -1,0 +1,92 @@
+NAME Enfant travailleuse
+BMP 157,7140
+COLOR 255 219 22 255
+NDESC Enfant travailleuse
+INDEX 1 3
+CHANGE Votre vie d'enfant travailleuse fut horrible !
+0,0.2
+CHANGE Votre vie d'enfant travailleuse fut mauvaise ! 
+0.2,0.4
+CHANGE Vous êtes une piètre enfant travailleuse !
+0.4,0.6
+CDESC Vous préférez aller à l'école !
+0,
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Avoir une vie simple et paisible n'est pas pour vous !
+0,
+0,0,0,0, 
+1,1,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Mais viser une carrière brillante sera difficile pour vous !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE Vous êtes une bonne enfant travailleuse !
+0.6,0.8
+CHANGE Vous êtes une excellente enfant travailleuse ! 
+0.8,1
+CDESC Malheureusement accéder aux études sera difficile.
+0,
+0,0,0,0, 
+0,0,0,9, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Avoir une vie facile sera difficile.
+0,
+0,0,0,0, 
+1,1,0,0, 
+0,0,0,0, 
+0,1,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Les emplois sous payés et les interminables heures de travail pavent votre futur !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Cependant, vous pouvez toujours devenir une rebelle.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0

@@ -1,0 +1,82 @@
+NAME Sister
+BMP 119
+COLOR 255 219 22 255
+NDESC <A> Taking Care of Your Younger Brother During War
+INDEX 2 2
+CHANGE You did horrible as a care taking sister!
+0,0.2
+CHANGE You did bad as a care taking sister!
+0.2,0.4
+CHANGE You did poorly as a care taking sister!
+0.4,0.6
+CDESC You will probably never be high society!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,9,0,0, 
+0,9,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Even having a normal life will be hard!
+0,
+0,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,1, 
+1,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC You will easily turn into a broken person.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0,0,-1,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE You did good as a care taking sister!
+0.6,0.8
+CHANGE You did excellent as a care taking sister!
+0.8,1
+CDESC A family life will be easy for you.
+0,
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0, 
+0
+CDESC But laissez-faire is not your style.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,1,0,0, 
+0,1,0,0, 
+0,1,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC And a steep career will be difficult for you.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,9, 
+9,0,0,0, 
+0,0,0,0, 
+9,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CONNECTION 1 2 + Being a gang leader prepared you well...<S>...to take care of your younger brother during war.

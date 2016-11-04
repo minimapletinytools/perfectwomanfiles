@@ -1,0 +1,82 @@
+NAME Soeur
+BMP 119
+COLOR 255 219 22 255
+NDESC <A> Prendre soin de votre jeune frère durant la guerre
+INDEX 2 2
+CHANGE Vous avez été horrible comme soeur protectrice !
+0,0.2
+CHANGE Vous avez été mauvaise comme soeur protectrice !
+0.2,0.4
+CHANGE Vous avez été médiocre comme soeur protectrice !
+0.4,0.6
+CDESC Vous n'appartiendrez jamais à la haute société.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,9,0,0, 
+0,9,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Même avoir une vie normale sera difficile !
+0,
+0,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,1, 
+1,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Vous finirez facilement brisée.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0,0,-1,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE Vous avez été bonne comme soeur protectrice !
+0.6,0.8
+CHANGE Vous avez été excellente comme soeur protectrice !
+0.8,1
+CDESC Une vie de famille sera facile pour vous.
+0,
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0, 
+0
+CDESC Mais le laissez-aller n'est pas votre style.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,1,0,0, 
+0,1,0,0, 
+0,1,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Néanmoins mener une imposante carrière sera difficile pour vous.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,9, 
+9,0,0,0, 
+0,0,0,0, 
+9,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CONNECTION 1 2 + Être cheffe de gang vous a bien préparé...<S>...à prendre soin de votre jeune frère durant la guerre.

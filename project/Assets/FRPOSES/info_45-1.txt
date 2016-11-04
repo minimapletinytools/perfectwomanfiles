@@ -1,0 +1,76 @@
+NAME Danseuse du ventre
+ORDER 1
+BMP 93.5
+COLOR 255 219 22 255
+NDESC Professeure de danse du ventre
+INDEX 5 0
+CHANGE Vous avez été une horrible prof de danse du ventre.
+0,0.2
+CHANGE Vous avez été une mauvaise prof de danse du ventre.
+0.2,0.4
+CHANGE Vous avez été une médiocre prof de danse du ventre.
+0.4,0.6
+CDESC Vous devriez essayer autre chose.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,-1,0,-1, 
+0,0,0,0, 
+0, 
+0
+CDESC Au moins vous pouvez compter sur votre expérience pour la suite !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0, 
+0
+CDESC Par chance, vous ne deviendrez pas une bourgeoise !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,1,0,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE Vous avez été une bonne prof de danse du ventre !
+0.6,0.8
+CHANGE Vous avez été une excellente prof de danse du ventre !
+0.8,1
+
+CDESC Vous êtes en route pour une vie épanouie !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,-1, 
+0, 
+0
+CDESC Mais vous n'appartiendrez jamais à la haute société !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,1,0,0, 
+0,0,0,0, 
+0, 
+0
+CONNECTION 3 2 - Avoir été capturée comme terroriste a rendu difficile...<S>...de devenir une professeure discrète de danse du ventre.
+CONNECTION 4 0 - Après avoir eu une brillante carrière, il fut difficile pour vous...<S>...de revenir à une vie de prof de danse du ventre.
+CONNECTION 4 1 + En ayant vécu heureuse à la plage, il ne fut pas difficile pour vous...<S>...de devenir prof de danse du ventre à 45 ans.
+CONNECTION 3 3 + Après votre vie de gameuse...<S>...il fut facile de vous relaxer comme professeure de danse du ventre.

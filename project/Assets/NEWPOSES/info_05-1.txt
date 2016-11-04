@@ -1,0 +1,81 @@
+NAME Princess
+BMP 136
+COLOR 255 219 22 255
+NDESC Princess
+INDEX 1 0
+CHANGE You did a horrible job as a princess!
+0,0.2
+CHANGE You did a bad job as a princess!
+0.2,0.4
+CHANGE You did a poor job as a princess!
+0.4,0.6
+CDESC It would be easier for you to go the rebel way! 
+0,
+0,0,0,0, 
+0,-1,0,0, 
+0,0,-1,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,0, 
+0, 
+0
+CDESC Bourgeois life is difficult for you!
+0,
+0,0,0,0, 
+0,0,0,1, 
+0,0,0,0, 
+0,0,0,0, 
+0,1,0,0, 
+0,0,1,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE You did a good job as a princess!
+0.6,0.8
+CHANGE You did an excellent job as a princess!
+0.8,1
+CDESC Being popular will be easy for you!
+0,
+0,0,0,0, 
+-1,0,0,-1, 
+0,0,0,-1, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC You are a natural for high society.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0,-1,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC You’ll want everybody to do what you say.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0,0,0,0, 
+0, 
+0
+CDESC But dealing with real life is hard for you!
+0,
+0,0,0,0, 
+0,0,1,0, 
+0,0,1,0, 
+0,0,0,1, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0

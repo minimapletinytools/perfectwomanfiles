@@ -1,0 +1,8 @@
+NAME Astronaut
+ORDER 1
+BMP 119
+COLOR 255 219 22 255
+NDESC Old Astronaut
+INDEX 8 0
+CHANGE Congratulations, you lived to be very old.
+0,1

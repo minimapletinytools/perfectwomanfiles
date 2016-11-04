@@ -1,0 +1,81 @@
+NAME Princesse
+BMP 136
+COLOR 255 219 22 255
+NDESC Princesse
+INDEX 1 0
+CHANGE Vous avez fait un horrible travail en tant que princesse !
+0,0.2
+CHANGE Vous avez fait du mauvais travail en tant que princesse !
+0.2,0.4
+CHANGE Vous avez fait un travail médiocre en tant que princesse !
+0.4,0.6
+CDESC Il serait plus simple pour vous de jouer la rebelle ! 
+0,
+0,0,0,0, 
+0,-1,0,0, 
+0,0,-1,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,0, 
+0, 
+0
+CDESC La vie de bourgeoise est difficile pour vous !
+0,
+0,0,0,0, 
+0,0,0,1, 
+0,0,0,0, 
+0,0,0,0, 
+0,1,0,0, 
+0,0,1,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE Vous avez fait du bon travail en tant que princesse !
+0.6,0.8
+CHANGE Vous avez fait un excellent travail en tant que princesse !
+0.8,1
+CDESC Devenir populaire sera facile pour vous !
+0,
+0,0,0,0, 
+-1,0,0,-1, 
+0,0,0,-1, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Vous êtes faite pour la haute société.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0,-1,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Vous aurez envie que chacun fasse ce que vous dîtes.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Mais gérer les réalités du quotidien est dur pour vous !
+0,
+0,0,0,0, 
+0,0,1,0, 
+0,0,1,0, 
+0,0,0,1, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0

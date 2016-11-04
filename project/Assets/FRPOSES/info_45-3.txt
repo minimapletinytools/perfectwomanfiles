@@ -1,0 +1,63 @@
+NAME Burn-Out
+BMP 115.47
+COLOR 255 219 22 255
+NDESC <A> Victime de Burn-Out
+INDEX 5 2
+CHANGE Votre burn-out fut horrible !
+0,0.2
+CHANGE Votre burn-out fut mauvais !
+0.2,0.4
+CHANGE Vous avez médiocrement géré votre burn-out !
+0.4,0.6
+CDESC Reprendre le travail sera extrêmement difficile.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+9,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Mais vous pouvez essayer quelque chose de complètement différent !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,-1, 
+0, 
+0
+CHANGE Votre vie fut bonne malgré votre burn-out !
+0.6,0.8
+CHANGE Vous avez excellemment bien géré votre burn-out !
+0.8,1
+CDESC Vous pouvez tout reprendre à nouveau !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-9,-1,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Mais vous restez vulnérable aux troubles mentaux.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0,-9,0,0, 
+0, 
+0
+CONNECTION 1 1 + Avoir été une superstar en tant qu'enfant...<S>...mène facilement au burn-out.
+CONNECTION 4 0 + En tant que professeure vous subissiez beaucoup de stress.<S>Cela vous provoqua facilement votre burn-out !
+CONNECTION 2 3 + Parce que vous étiez ambitieuse depuis votre plus jeune âge...<S>...les risques de burn-out étaient importants.
+CONNECTION 2 3 - Les mauvaises élèves...<S>...souffrent difficilement de burn-out.

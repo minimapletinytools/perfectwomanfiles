@@ -1,0 +1,74 @@
+NAME Riche épouse
+BMP 125
+NDESC Riche épouse
+INDEX 5 1
+CHANGE Votre riche mariage fut horrible !
+0,0.2
+CHANGE Votre riche mariage fut mauvais !
+0.2,0.4
+CHANGE Votre riche mariage fut médiocre ! 
+0.4,0.6
+CDESC Il vaut mieux oublier cet épisode !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0, 
+0
+CDESC Vous devriez vous essayer à autre chose !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,-1, 
+0,0,0,0, 
+0, 
+0
+CHANGE Votre riche mariage fut bon !
+0.6,0.8
+CHANGE Votre riche mariage fut excellent !
+0.8,1
+CDESC La haute société est votre élément !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,-9,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Les modes de vie alternatifs sont trop extrêmes pour vous !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,1, 
+0,0,0,1, 
+0, 
+0
+CDESC Malheureusement vous ne faites pas beaucoup d'expériences par vous même.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0, 
+0
+CONNECTION 1 0 - Avoir été une horrible princesse à 9 ans...<S>...rend difficile votre accès à la haute société !
+CONNECTION 1 2 - Avoir été une enfant des rues à 9 ans rend difficile...<S>...votre accès à la haute société !
+CONNECTION 2 2 - Avoir été une pauvre adolescente durant la guerre...<S>...rend difficile votre accès à la haute société
+CONNECTION 4 2 - Avoir vécu la perte de votre enfant,...<S>...ne facilite pas l'accès à un mode de vie riche.
+CONNECTION 2 3 + Depuis que vous étiez une mauvaise élève...<S>...vous marier à une personne riche était une option de facilité.

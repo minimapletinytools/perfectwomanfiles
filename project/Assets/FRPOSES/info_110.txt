@@ -1,0 +1,8 @@
+NAME Astronaute
+ORDER 1
+BMP 119
+COLOR 255 219 22 255
+NDESC Vieille astronaute
+INDEX 8 0
+CHANGE Félicitations, vous avez vécu très vieille.
+0,1

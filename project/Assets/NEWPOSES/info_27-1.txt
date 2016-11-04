@@ -1,0 +1,82 @@
+NAME Mom
+BMP 100
+NDESC Mother of Two Happy Kids
+INDEX 3 0
+CHANGE Your life as a mother was horrible!
+0,0.2
+CHANGE Your life as a mother was bad!
+0.2,0.4
+CHANGE You performed poorly as a mother of 2 happy kids!
+0.4,0.6
+CDESC You’re likely to be unhappy with your kids.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Living your dreams will be hard for you now.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+1,1,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Your life will be a lot of work.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE Your life as a mother was good!
+0.6,0.8
+CHANGE Your life as a mother was excellent!
+0.8,1
+CDESC You can have a fulfilled life!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+-1,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0, 
+0
+CDESC With children you might have some intense experiences.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0,0,0,0, 
+0,0,-1,0, 
+-1,0,0,0, 
+0, 
+0
+CDESC But having a career will be hard for you!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CONNECTION 1 1 - Being used to a career life as a child star...<S>...made it hard for you to accept your life as a mother.
+CONNECTION 2 2 - Not being able to care for your brother during war...<S>...made it hard for you to have your own family.

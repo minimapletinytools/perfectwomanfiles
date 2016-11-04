@@ -1,0 +1,63 @@
+NAME Burned Out
+BMP 115.47
+COLOR 255 219 22 255
+NDESC <A> Burned Out
+INDEX 5 2
+CHANGE Your burned out life was horrible!
+0,0.2
+CHANGE Your burned out life was bad!
+0.2,0.4
+CHANGE You performed poorly as a burned out woman!
+0.4,0.6
+CDESC Getting back to work will be extremely hard.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+9,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC But you can try something completely different!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,-1, 
+0, 
+0
+CHANGE Your burned out life was good!
+0.6,0.8
+CHANGE You dealt with your burn out excellently!
+0.8,1
+CDESC Now you can start all over again!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-9,-1,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC But you remain vulnerable to mental problems!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0,-9,0,0, 
+0, 
+0
+CONNECTION 1 1 + Being a superstar as a child already...<S>...lead to a burn out easily.
+CONNECTION 4 0 + As a professor you were under a lot of stress.<S>That got you to burn out easily!
+CONNECTION 2 3 + Because you have been ambitious since very young...<S>...a burn out was very likely for you.
+CONNECTION 2 3 - Bad students...<S>...hardly suffer from burn out.

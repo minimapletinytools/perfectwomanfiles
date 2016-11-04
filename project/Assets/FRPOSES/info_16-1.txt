@@ -1,0 +1,70 @@
+NAME Sexy
+BMP 127
+COLOR 238 2 130 255
+NDESC Adolescente avec laquelle tout le monde veut coucher
+INDEX 2 0
+CHANGE Votre vie de fille sexy fut horrible !
+0,0.2
+CHANGE Votre vie de fille sexy fut mauvaise !
+0.2,0.4
+CHANGE Votre vie de fille sexy fut médiocre !
+0.4,0.6
+CDESC L'amour vous fait peur !
+0,
+0,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,1,0,0, 
+0,1,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Au moins vous pouvez faire de l'argent grâce à votre sex-appeal !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,0, 
+0, 
+0
+CHANGE Votre vie de fille sexy fut bonne !
+0.6,0.8
+CHANGE Votre vie de fille sexy fut excellente !
+0.8,1
+CDESC Vous aimez la facilité.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0,-1,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Et vous avez un talent sexuel.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,0, 
+0, 
+0
+CDESC Mais l'action de vous battre pour quoique ce soit sera dure pour vous.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+0, 
+0

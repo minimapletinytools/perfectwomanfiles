@@ -1,0 +1,70 @@
+NAME Batteuse
+BMP 130
+COLOR 255 219 22 255
+NDESC <A> Jouer dans un groupe dans les bois
+INDEX 2 1
+CHANGE Vous avez fait un travail horrible dans le groupe !
+0,0.2
+CHANGE Vous avez fait du mauvais travail dans le groupe !
+0.2,0.4
+CHANGE Vous avez fait un travail médiocre dans le groupe !
+0.4,0.6
+CDESC Vous voulez juste vous la couler douce. 
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0,-1,0,0, 
+-1,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Au moins vous avez le sens du rythme. 
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0, 
+0
+CDESC Mais avoir une carrière sera difficile pour vous.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+9,0,0,0, 
+0,0,0,0, 
+9,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE Vous avez fait du bon travail au sein du groupe !
+0.6,0.8
+CHANGE Vous avez fait un excellent travail au sein du groupe !
+0.8,1
+CDESC Vous aimez vivre de manière alternative.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0,-1,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,0, 
+0, 
+0
+CDESC Mais une vie conventionnelle sera difficile pour vous !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,9,0, 
+0, 
+0

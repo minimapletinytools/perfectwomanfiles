@@ -1,0 +1,72 @@
+NAME Ivre
+BMP 140
+COLOR 238 2 130 255
+NDESC Jeune femme ivre durant l'Oktoberfest
+INDEX 3 1
+CHANGE Votre vie de jeune femme ivre fut horrible !
+0,0.2
+CHANGE Votre vie de jeune femme ivre fut mauvaise !
+0.2,0.4
+CHANGE Vous étiez médiocre comme jeune femme ivre ! 
+0.4,0.6
+CDESC Parce que l'alcool a ravagé votre cerveau, il sera extrêmement difficile d'obtenir un emploi ambitieux.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+9,0,0,0, 
+0,0,0,0, 
+9,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Mais vous pouvez toujours aller dans l'industrie du sexe.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,0, 
+0, 
+0
+CHANGE Votre vie de jeune femme ivre fut bonne ! 
+0.6,0.8
+CHANGE Votre vie en tant de jeune femme ivre fut excellente ! 
+0.8,1
+CDESC Profitez de la vie est facile pour vous !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0, 
+0
+CDESC Mais l'idée de travailler pour gagner votre vie n'est pas si amusant que ça.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,1, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Avoir une carrière sera très difficile à présent.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+9,0,0,0, 
+0,0,0,0, 
+9,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CONNECTION 2 3 -Votre ambition en tant qu'élève studieuse...<S>...rend pénible l'idée de vous laisser aller dans la vie plus tard.
+

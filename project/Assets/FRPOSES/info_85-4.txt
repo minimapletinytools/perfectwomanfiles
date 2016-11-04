@@ -1,0 +1,19 @@
+NAME Matriarche
+BMP 119
+COLOR 255 219 22 255
+NDESC Matriarche tribale
+INDEX 7 2
+CHANGE Matriarche tribale, vous êtes morte horriblement !
+0,0.2
+CHANGE Matriarche tribale, vous êtes morte douloureusement !
+0.2,0.4
+CHANGE Matriarche tribale, vous êtes morte normalement !
+0.4,0.6
+CHANGE Matriarche tribale, vous êtes morte paisiblement !
+0.6,0.8
+CHANGE Matriarche tribale, vous êtes morte de la meilleure façon !
+0.8,1
+CONNECTION 4 3 + Parce qu'être caissière était trop ennuyeux pour vous,...<S>...vous êtes devenue une matriarche tribale plus tard.
+CONNECTION 4 3 - Votre vie simple en tant que caissière...<S>...ne facilita pas votre changement en matriarche tribale.
+CONNECTION 5 0 + Votre vie spirituelle de danseuse du ventre...<S>... vous mena facilement à devenir plus tard une matriarche tribale.
+CONNECTION 4 1 + Parce que vous avez eu une vie originale comme mère à la plage...<S>...il fut facile pour vous de devenir une matriarche tribale.

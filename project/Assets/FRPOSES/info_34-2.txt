@@ -1,0 +1,85 @@
+NAME Maman de plage
+BMP 149
+COLOR 238 2 130 255
+NDESC <A> Élever un enfant adoptif à la plage
+INDEX 4 1
+CHANGE Vous avez été horrible comme mère adoptive !
+0,0.2
+CHANGE Vous avez été mauvaise comme mère adoptive !
+0.2,0.4
+CHANGE Vous avez été médiocre comme mère adoptive !
+0.4,0.6
+CDESC Soyez plus conventionnelle la prochaine fois !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Il sera difficile d'adopter un style de vie conservateur pour vous.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,9,0, 
+0,0,9,0, 
+0, 
+0
+CDESC Au moins vous ne souffrirez jamais de burn-out.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,9,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE Vous avez été une bonne mère adoptive !
+0.6,0.8
+CHANGE Vous avez été une excellente mère adoptive !
+0.8,1
+CDESC Relaxez-vous et profitez de la vie !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0,0,0,0, 
+0,-1,0,-1, 
+0, 
+0
+CDESC Avoir une vie conventionnelle sera difficile pour vous !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+9,0,9,0, 
+0,0,0,0, 
+0, 
+0
+CDESC Au moins vous ne souffrirez jamais de burn-out.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,9,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CONNECTION 1 1 + Vos échecs en tant qu'enfant star vous ont appris à prendre la vie posément.
+CONNECTION 3 2 + Après avoir été terroriste,...<S>...il fut facile de vivre en marge.
+CONNECTION 2 3 - Puisque vous avez eu une jeunesse ambieuse...<S>...il fut difficile de vous relaxez en tant que mère adoptive.
+CONNECTION 3 3 + Vos difficultés en tant que gameuse professionnelle...<S>...vous ont poussez à tenter une nouvelle vie à la plage.

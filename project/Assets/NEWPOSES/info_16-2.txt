@@ -1,0 +1,70 @@
+NAME Drummer
+BMP 130
+COLOR 255 219 22 255
+NDESC <A> Playing in a Band in the Woods
+INDEX 2 1
+CHANGE You did a horrible job as a band member!
+0,0.2
+CHANGE You did a bad job as a band member!
+0.2,0.4
+CHANGE You did a poor job as a band member!
+0.4,0.6
+CDESC You just want to relax. 
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0,-1,0,0, 
+-1,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CDESC At least you have a sense for rhythm. 
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0, 
+0
+CDESC But having a career will be hard for you.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+9,0,0,0, 
+0,0,0,0, 
+9,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE You did a good job as a band member!
+0.6,0.8
+CHANGE You did an excellent job as a band member!
+0.8,1
+CDESC You like to live alternatively.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0,-1,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,0, 
+0, 
+0
+CDESC But a conformed life will be hard for you!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,0,0, 
+1,0,0,0, 
+0,0,9,0, 
+0, 
+0

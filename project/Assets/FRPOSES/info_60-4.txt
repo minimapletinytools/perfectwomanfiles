@@ -1,0 +1,54 @@
+NAME Call-Girl
+BMP 109,7143
+COLOR 238 2 130 255
+NDESC Call-Girl
+INDEX 6 3
+CHANGE Vous étiez une horrible call-girl !
+0,0.2
+CHANGE Vous étiez une mauvaise call-girl !
+0.2,0.4
+CHANGE Vous étiez médiocre comme call-girl !
+0.4,0.6
+CDESC Il est facile d'oublier une call-girl !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0, 
+0
+CHANGE Vous étiez bonne comme call-girl !
+0.6,0.8
+CHANGE Vous étiez excellente comme call-girl !
+0.8,1
+CDESC Vous avez acquis beaucoup d'expérience personnelle.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0, 
+0
+CDESC Mais devenir pieuse dans vos vieux jours sera difficile.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,1,0, 
+0, 
+0
+CONNECTION 5 3 + Vous étiez habituée aux actes amoraux en tant que chasseuse de baleine...<S>...vous n'avez donc eu aucun problème à devenir call-girl.
+CONNECTION 4 3 + Vous vous sentiez limitée en tant que caissière...<S>...il fut donc facile pour vous de devenir call-girl.
+CONNECTION 3 3 + Because you already learned about extreme jobs as professional gamer...<S>...it was easier for you to  become a call girl.
+CONNECTION 2 3 - Votre cursus scolaire en tant qu'étudiante passionnée...<S>...ne fut pas une bonne préparation à devenir call-girl à 60 ans.
+CONNECTION 2 0 - Parce que très tôt vous aimiez le sexe,...<S>...il fut facile de devenir call-girl à 60 ans.
+CONNECTION 3 0 - Parce qu'en tant que mère vous vouliez être un modèle pour vos enfants...<S>...il fut difficile pour vous de devenir call-girl à 60 ans.

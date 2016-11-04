@@ -1,0 +1,23 @@
+NAME Priante
+BMP 119
+COLOR 255 219 22 255
+NDESC <A> Priant à Dieu de vous prendre au Paradis
+INDEX 7 2
+CHANGE Vieille dame religieuse, vous êtes morte horriblement !
+0,0.2
+CHANGE Vieille dame religieuse, vous êtes morte douloureusement !
+0.2,0.4
+CHANGE Vieille dame religieuse, vous êtes morte normalement !
+0.4,0.6
+CHANGE Vieille dame religieuse, vous êtes morte paisiblement !
+0.6,0.8
+CHANGE Vieille dame religieuse, vous êtes morte de la meilleure façon !
+0.8,1
+CONNECTION 2 1 - Les groupes de musique...<S>...ne croient jamais en dieu !
+CONNECTION 4 1 + Avoir été lesbienne sur la plage...<S>...a rendu difficile votre conversion religieuse à 80 ans.
+CONNECTION 4 2 + Un destin tragique, tel que la mort de votre enfant,...<S>...vous guide aisément dans les bras de la religion.
+CONNECTION 6 1 + Ayant été une personne morale en collectant des fonds...<S>...a facilité votre conversion religieuse.
+CONNECTION 6 0 - En tant que ministre des affaires étrangères vous en avez trop vu...<S>...pour encore croire en dieu.
+CONNECTION 6 2 + Avoir été en colère après votre fille pour son changement de sexe,...<S>...facilita votre conversion en vieille dame religieuse.
+CONNECTION 6 3 - Parce que vous étiez call-girl...<S>...l'église ne facilita pas votre croyance en dieu par la suite.
+CONNECTION 5 3 - Parce que vous avez tué un bon nombre de ses créatures en tant que chasseuse de baleines,...<S>...dieu eut du mal à entendre vos prières.

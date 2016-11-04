@@ -1,0 +1,62 @@
+NAME Terroriste
+BMP 120
+COLOR 255 219 22 255
+NDESC Terroriste
+INDEX 3 2
+CHANGE Vous avez fait un horrible travail en tant que terroriste !
+0,0.2
+CHANGE Vous avez fait du mauvais travail en tant que terroriste !
+0.2,0.4
+CHANGE Vous avez fait un travail médiocre en tant que terroriste !
+0.4,0.6
+CDESC Les terroristes capturées finissent bien souvent marginalisées.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,-1, 
+0, 
+0
+CDESC Être à nouveau intégrée à la société sera difficile !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+9,0,0,1, 
+0,0,0,0, 
+9,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE Vous avez fait du bon travail en tant que terroriste !
+0.6,0.8
+CHANGE Vous avez fait un excellente travail en tant que terroriste !
+0.8,1
+CDESC Les terroristes deviennent facilement des marginales ! 
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,-1, 
+0, 
+0
+CDESC Être à nouveau intégrée à la société sera difficile !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+9,0,0,1, 
+0,0,0,0, 
+9,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CONNECTION 1 2 + Parce que vous aviez subi l'injustice en tant qu'enfant des rues...<S>...if fut facile pour vous de devenir terroriste.
+CONNECTION 1 3 + Parce que vous étiez exploitée en tant qu'enfant travailleuse...<S>...vous pouviez facilement devenir une terroriste.
+

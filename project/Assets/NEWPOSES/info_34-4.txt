@@ -1,0 +1,67 @@
+NAME Cashier
+BMP 120
+COLOR 255 219 22 255
+NDESC 7/11 Cashier
+INDEX 4 3
+CHANGE You did horrible as a cashier!
+0,0.2
+CHANGE You did bad as a cashier!
+0.2,0.4
+CHANGE You did poor as a cashier!
+0.4,0.6
+CDESC You can try it with something more exciting!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,-1, 
+0,0,0,-1, 
+0, 
+0
+CDESC But a stellar career remains hard for you!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+9,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE You did good as a cashier!
+0.6,0.8
+CHANGE You did excellent as a cashier!
+0.8,1
+CDESC A modest life seems right for you.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,-1,0, 
+0, 
+0
+CDESC But fancy life styles will be really hard.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+9,1,0,0, 
+0,0,0,9, 
+0, 
+0
+CONNECTION 2 3 + Because you were not a good student...<S>...becoming a cashier was natural for you.
+CONNECTION 3 0 + Because it fits to your life as a mother...<S>...you could easily become cashier.
+CONNECTION 3 0 - Because it fits to your life as a mother...<S>...you could easily become cashier.
+CONNECTION 1 3 + Because you were an underpaid child worker...<S>...it was easy to become an underpaid cashier later.
+CONNECTION 2 3 - Because of your good education...<S>...you had a hard time to accept life as a Cashier.
+CONNECTION 3 1 + Because you drank too much at Oktoberfest...<S>...it was easiest for you to become cashier later.
+
+

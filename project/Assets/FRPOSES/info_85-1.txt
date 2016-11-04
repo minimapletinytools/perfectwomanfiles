@@ -1,0 +1,21 @@
+NAME Sage
+BMP 114.07
+NDESC Grand-mère sage et expérimentée
+INDEX 7 0
+CHANGE Grand-mère sage, vous êtes morte horriblement !
+0,0.2
+CHANGE Grand-mère sage, vous êtes morte douloureusement !
+0.2,0.4
+CHANGE Grand-mère sage, vous êtes morte normalement !
+0.4,0.6
+CHANGE Grand-mère sage, vous êtes morte paisiblement !
+0.6,0.8
+CHANGE Grand-mère sage, vous êtes morte de la meilleure façon !
+0.8,1
+CONNECTION 4 0 - Vu que vous n'avez fait que travailler pour devenir professeure émérite,...<S>...il fut difficile de devenir une vieille dame sage et expérimentée.
+CONNECTION 4 2 + Perdre un enfant a fait de vous...<S>...une grand-mère sage et expérimentée. 
+CONNECTION 5 0 + Vous avez trouvé la paix intérieure comme enseignante de danse du ventre....<S>...Cela a fait de vous une grand-mère sage à 85 ans.
+CONNECTION 5 1 - Passer du temps comme riche épouse a rendu...<S>...difficile pour vous de devenir une grand-mère sage et expérimentée. 
+CONNECTION 6 0 + Vos nombreuses expériences en tant que ministre,...<S>...vous a rendu sage à l'âge de 85 ans.
+CONNECTION 6 3 + Parce que vous avez acquis beaucoup d'expérience en étant star du porno,...<S>...devenir une grand-mère sage fut facile pour vous.
+CONNECTION 4 7 + Votre vie simple de caissière a facilement permis...<S>...de maintenir cette simplicité en vieillissant.

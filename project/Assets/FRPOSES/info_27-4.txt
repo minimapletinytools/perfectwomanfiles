@@ -1,0 +1,61 @@
+NAME Gameuse
+BMP 157,7130
+COLOR 238 2 130 255
+NDESC Pro Gameuse
+INDEX 3 3
+CHANGE Votre vie de gameuse professionnelle fut horrible !
+0,0.2
+CHANGE Votre vie de gameuse professionnelle fut mauvaise !
+0.2,0.4
+CHANGE Vos performances de gameuse professionnelle furent médiocre.
+0.4,0.6
+CDESC Restez en contact avec la réalité !
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,-1,0,0, 
+-1,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE Vos performances de gameuse professionnelle furent bonne !
+0.6,0.8
+CHANGE Vous étiez une excellente gameuse professionnelle !
+0.8,1
+CDESC Les jobs extrêmes sont faciles pour vous.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,-1, 
+0,0,0,-1, 
+0,0,0,0, 
+0, 
+0
+CDESC L'éthique et la morale ne vous préoccupent guère.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+1,1,0,0, 
+0,0,0,0, 
+0, 
+0
+CONNECTION 1 0 + Une princesse obtient toujours ce qu'elle veut...<S>...à savoir, dans votre cas, jouer aux jeux vidéo !
+CONNECTION 2 1 + En tant qu'adolescente sexy vous faisiez ce que vous vouliez...<S>...et êtes devenue gameuse professionnelle.
+CONNECTION 2 2 - Parce que vous deviez survivre à la guerre...<S>...il était difficile de vous mettre aux jeux vidéo.
+CONNECTION 1 2 - En tant qu'enfant des rues vous n'aviez jamais pratiqué les jeux vidéo...<S>...il fut donc difficile de devenir gameuse professionnelle.
+CONNECTION 1 3 - En tant qu'enfant travailleuse vous ne possédiez pas d'ordinateur...<S>...il fut donc difficile d'apprendre à jouer aux jeux vidéo.
+CONNECTION 2 3 - En tant qu'élève studieuse vous ne vous êtes jamais autorisée à jouer...<S>...vous avez donc eu une période difficile en tant que gameuse.
+
+
+
+
+
+
+

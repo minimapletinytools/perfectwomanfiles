@@ -1,0 +1,76 @@
+NAME Belly Dancer
+ORDER 1
+BMP 93.5
+COLOR 255 219 22 255
+NDESC Belly Dance Teacher
+INDEX 5 0
+CHANGE You did horrible as a belly dance teacher!
+0,0.2
+CHANGE You did bad as a belly dance teacher!
+0.2,0.4
+CHANGE You did poor as a belly dance teacher!
+0.4,0.6
+CDESC You should try something else.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,-1,0,-1, 
+0,0,0,0, 
+0, 
+0
+CDESC But at least you profit from some experience later!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0, 
+0
+CDESC Luckily you’ll hardly become a bourgeois!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,1,0,0, 
+0,0,0,0, 
+0, 
+0
+CHANGE You did good as a belly dance teacher!
+0.6,0.8
+CHANGE You did excellent as a belly dance teacher!
+0.8,1
+
+CDESC You're on the way to a fulfilled life!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,-1, 
+0, 
+0
+CDESC But high society is not for you!
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,1,0,0, 
+0,0,0,0, 
+0, 
+0
+CONNECTION 3 2 -  Being caught as a terrorist made it hard to...<S>...become an undetected belly dance teacher.
+CONNECTION 4 0 - After having a successful career, it was hard for you to...<S>...go back to a life as a belly dance teacher.
+CONNECTION 4 1 + Living happily at the beach, it was not difficult for you...<S>...to become a belly dance teacher at 45.
+CONNECTION 3 3 + After your life as a gamer...<S>…it was easy to relax as a belly dance teacher.

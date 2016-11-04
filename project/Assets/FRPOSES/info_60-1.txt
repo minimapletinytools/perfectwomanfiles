@@ -1,0 +1,61 @@
+NAME Ministre
+BMP 120
+COLOR 238 2 130 255
+NDESC Ministre des affaires étrangères
+INDEX 6 0
+CHANGE Vous avez été une horrible ministre !
+0,0.2
+CHANGE Vous avez été une mauvaise ministre !
+0.2,0.4
+CHANGE Vous avez été une ministre médiocre !
+0.4,0.6
+CDESC Au moins cette expérience sera valorisante pour l'avenir. 
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0, 
+0
+CHANGE Vous avez été une bonne ministre !
+0.6,0.8
+CHANGE Vous avez été une excellente ministre !
+0.8,1
+CDESC Votre ouverture sur le monde n'est pas appropriée pour un style de vie religieux.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,1,1, 
+0, 
+0
+CDESC Mais vous avez acquis beaucoup d'expériences personnelles.
+0,
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+0,0,0,0, 
+-1,0,0,0, 
+0, 
+0
+CONNECTION 1 2 - Une enfant des rues chahuteuse...<S>...devient difficilement ministre des affaires étrangères !
+CONNECTION 2 0 - Parce que tout le monde vous a toujours aimé, il fut difficile...<S>...de vous battre pour atteindre le poste de ministre.
+CONNECTION 2 1 - Parce que vous avez passé votre jeunesse à battre le rythme,...<S>...il fut difficile d'avoir une carrière ambitieuse plus tard.
+CONNECTION 3 2 - Après votre vie de terroriste...<S>...il fut pratiquement impossible de devenir ministre des affaires étrangères.
+CONNECTION 3 1 - Avoir abusé de la boisson étant jeune n'aide pas......<S>...à devenir ministre des affaires étrangères !
+CONNECTION 4 0 + Parce que vous étiez habituée au succès en étant professeure...<S>...il fut facile de devenir ministre par la suite.
+CONNECTION 5 2 - Ne pas avoir surmonté votre burn-out...<S>...a rendu à jamais difficile toute reprise du travail.
+CONNECTION 5 3 + Avoir surmonté votre burn-out,...<S>...vous a permis de reprendre facilement le travail en tant que ministre.
+CONNECTION 4 3 - Après une vie modeste comme caissière,...<S>...devenir ministre des affaires étrangères fut dur pour vous.
+CONNECTION 3 3 - Parce que vous avez perdu tout intérêt en la réalité en tant que gameuse,...<S>...devenir ministre fut difficile.
+CONNECTION 2 3 - Parce que vos études se sont mal déroulées...<S>...vous n'étiez pas bien préparée à être ministre des affaires étrangères.
+CONNECTION 2 3 + Grâce à vos études réussies...<S>...il fut facile de devenir ministre des affaires étrangères.
+CONNECTION 1 3 - Parce que vous étiez une enfant travailleuse...<S>...avoir une carrière politique fut difficile pour vous.
