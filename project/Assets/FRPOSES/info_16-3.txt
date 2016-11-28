@@ -68,7 +68,7 @@ CDESC Mais le laissez-aller n'est pas votre style.
 0,0,0,0, 
 0, 
 0
-CDESC Néanmoins mener une imposante carrière sera difficile pour vous.
+CDESC De même que mener une carrière sera difficile pour vous.
 0,
 0,0,0,0, 
 0,0,0,0, 

@@ -44,7 +44,7 @@ CDESC Mais vous subirez plus difficilement un burn-out plus tard !
 0
 CHANGE Vous êtes une bonne élève !
 0.6,0.8
-CHANGE Vous êtes une étudiante élève !
+CHANGE Vous êtes une excellente élève !
 0.8,1
 CDESC Vous aurez une grande carrière !
 0,

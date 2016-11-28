@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: f0414b4694cd0419e86feb3a129eea10
-timeCreated: 1478291482
+timeCreated: 1480357880
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName: {}
@@ -50,6 +50,7 @@ TextureImporter:
   textureType: 0
   buildTargetSettings: []
   spriteSheet:
+    serializedVersion: 2
     sprites: []
     outline: []
   spritePackingTag: 

@@ -33,7 +33,7 @@ CDESC Mais vous pouvez toujours aller dans l'industrie du sexe.
 0
 CHANGE Votre vie de jeune femme ivre fut bonne ! 
 0.6,0.8
-CHANGE Votre vie en tant de jeune femme ivre fut excellente ! 
+CHANGE Votre vie de jeune femme ivre fut excellente ! 
 0.8,1
 CDESC Profitez de la vie est facile pour vous !
 0,
